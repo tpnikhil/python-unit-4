@@ -1,0 +1,1 @@
+# Create a student dictionary, update age, and add city. student = {    "name": "Akhil",    "age": 19,    "course": "Python Programming" } print("Original dictionary:", student) print("Student name:", student["name"]) student["age"] = 20 student["city"] = "Hyderabad" print("Updated dictionary:", student)
